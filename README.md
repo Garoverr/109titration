@@ -4,11 +4,20 @@
 
 L'acide benzoïque est un conservateur alimentaire utilisé dans l'industrie sous le code E210. C'est un solide blanc et soyeux. 
 
+<figure style="float: left; margin-right: 10px;">
+  <img src="cinclude/schemaE210.jpg" alt="Schéma d'une molécule d'acide Benzoique" width="400" height="300">
+  <figcaption>Schéma d'une molécule d'acide Benzoique</figcaption>
+</figure>
+<figure style="float: left;">
+  <img src="nclude/acidebenzoiquesolide.png" alt="acide benzoïque solide" width="400" height="300">
+  <figcaption>acide benzoïque solide</figcaption>
+</figure>
+
 <span style="float: left; margin-right: 10px;">
   <img src="include/schemaE210.jpg" alt="Schéma d'une molécule d'acide Benzoique" width="400" height="300">
 </span>
 <span style="float: left;">
-  <img src="include/acidebenzoiquesolide.png" alt="cide benzoïque solide" width="400" height="300">
+  <img src="include/acidebenzoiquesolide.png" alt="acide benzoïque solide" width="400" height="300">
 </span>
 
 Pour déterminer la concentration de cet additif dans un soda, on peut réaliser une titration pH : une base forte (le titrant) est ajoutée progressivement à un échantillon de soda (l'analyte), et le pH est ensuite lu. La courbe générée est typique, et comporte une zone où le pH augmente brutalement : il s'agit du saut de pH.
