@@ -1,6 +1,4 @@
-<p align="center"> __Concentration de l'acide benzoïque dans les sodas__ </p>
-<p align="center"> :left_right_arrow: </p>
-<p align="center"> __Concentration of benzoic acid in soft drinks__ </p>
+<h1 style="font-size: 2em; font-weight: bold; text-align: center;">Concentration de l'acide benzoïque dans les sodas <br> :left_right_arrow: <br> Concentration of benzoic acid in soft drinks</h1>
 <br>
 <br>
 ```
