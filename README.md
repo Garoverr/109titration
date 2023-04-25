@@ -1,5 +1,12 @@
 # __Concentration de l'acide benzoïque dans les sodas :left_right_arrow: Concentration of benzoic acid in soft drinks__
 
+```
+   USAGE                                                                                                                                                                                 
+        ./109titration <file>                                                                                                                                                                 
+                                                                                                                                                                                              
+   DESCRIPTION                                                                                                                                                                           
+        file    a csv file containing "vol;ph" lines 
+```
 ## Français
 
 L'acide benzoïque est un conservateur alimentaire utilisé dans l'industrie sous le code E210. C'est un solide blanc et soyeux. 
