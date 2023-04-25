@@ -52,9 +52,18 @@ Nous devions coder la première approche. Le programme doit lire le volume de ti
 
    - le point d'équivalence approprié, estimé à partir de la deuxième dérivée.
 
-![Sortie du programme](include/imagesortiprog109.png)
-
-![Sortie du programme avec erreur](include/image2sortiprog.png)
+<figure>
+  <img src="include/imagesortiprog109.png" alt="Sortie du programme">
+  <figcaption>Sortie du programme</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+  <img src="include/image2sortiprog.png" alt="Sortie du programme avec erreur">
+  <figcaption>Sortie du programme avec erreur</figcaption>
+</figure>
+<br>
+<br>
 
 Le code contient une gestion d'erreur personnalisée appelée InvalidFile et des fonctions utilisées pour lire les données d'un fichier CSV, effectuer des calculs et imprimer les résultats sur la console.  
 
@@ -103,9 +112,18 @@ We had to code the first approach. The program must read the volume of titrant (
 
    - the appropriate equivalence point estimated from the second derivative.
 
-![Program's output](include/imagesortiprog109.png)
-
-![Program's output with error](include/image2sortiprog.png)
+<figure>
+  <img src="include/imagesortiprog109.png" alt="Program's output">
+  <figcaption>Program's output</figcaption>
+</figure>
+<br>
+<br>
+<figure>
+  <img src="include/image2sortiprog.png" alt="Program's output with error">
+  <figcaption>Program's output with error</figcaption>
+</figure>
+<br>
+<br>
 
 The code contain a custom error_handling called InvalidFile and functions that are used to read data from a CSV file, perform calculations on it, and print the results to the console.  
 
