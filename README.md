@@ -30,6 +30,7 @@ L'acide benzoïque est un conservateur alimentaire utilisé dans l'industrie sou
 Pour déterminer la concentration de cet additif dans un soda, on peut réaliser une titration pH : une base forte (le titrant) est ajoutée progressivement à un échantillon de soda (l'analyte), et le pH est ensuite lu. La courbe générée est typique, et comporte une zone où le pH augmente brutalement : il s'agit du saut de pH.
 <br>
 <br>
+
 ![Schéma du saut de PH durant la titration](include/sautPH109.png)
 
 Pour trouver la concentration de conservateur dans le soda, il faut lire le volume de titrant ajouté au point d'équivalence (c'est-à-dire au milieu du saut de pH). Il existe deux approches principales pour le faire :
@@ -90,6 +91,7 @@ Benzoic acid is a food preservative used in industry under the code E210. It's a
 To determine the concentration of this additive in a soda, a pH titration can be performed: a strong base (the titrant) is added progressively to a soda sample (the analyte), and the pH is then read. The curve generated is typical, and includes an area where the pH rises sharply: this is the pH jump.
 <br>
 <br>
+
 ![Diagram typical curve: Brutal increase after titration](include/sautPH109.png)
 
 To find the concentration of preservative in the soda, the volume of titrant added at the equivalence point (i.e. in the middle of the pH jump) must be read. There are two main approaches to doing this:
