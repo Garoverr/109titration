@@ -5,11 +5,11 @@
 L'acide benzoïque est un conservateur alimentaire utilisé dans l'industrie sous le code E210. C'est un solide blanc et soyeux. 
 
 <figure style="float: left; margin-right: 10px;">
-  <img src="cinclude/schemaE210.jpg" alt="Schéma d'une molécule d'acide Benzoique" width="400" height="300">
+  <img src="include/schemaE210.jpg" alt="Schéma d'une molécule d'acide Benzoique" width="400" height="300">
   <figcaption>Schéma d'une molécule d'acide Benzoique</figcaption>
 </figure>
 <figure style="float: left;">
-  <img src="nclude/acidebenzoiquesolide.png" alt="acide benzoïque solide" width="400" height="300">
+  <img src="include/acidebenzoiquesolide.png" alt="acide benzoïque solide" width="400" height="300">
   <figcaption>acide benzoïque solide</figcaption>
 </figure>
 
