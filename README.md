@@ -1,6 +1,11 @@
-<h1 style="font-size: 2em; font-weight: bold; text-align: center;">Concentration de l'acide benzoïque dans les sodas <br> :left_right_arrow: <br> Concentration of benzoic acid in soft drinks</h1>
+<h1 style="font-size: 2em; font-weight: bold; text-align: center;">Concentration de l'acide benzoïque dans les sodas</h1>
+ <br>
+<h2 style="font-size: 2em; font-weight: bold; text-align: center;">:left_right_arrow:</h2>
+ <br>
+<h3 style="font-size: 2em; font-weight: bold; text-align: center;">Concentration of benzoic acid in soft drinks</h3>
 <br>
 <br>
+
 ```
    USAGE                                                                                                                                                                                 
         ./109titration <file>                                                                                                                                                                 
@@ -8,6 +13,7 @@
    DESCRIPTION                                                                                                                                                                           
         file    a csv file containing "vol;ph" lines 
 ```
+
 ## Français
 
 L'acide benzoïque est un conservateur alimentaire utilisé dans l'industrie sous le code E210. C'est un solide blanc et soyeux. 
