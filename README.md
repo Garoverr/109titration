@@ -1,5 +1,8 @@
-# __Concentration de l'acide benzoïque dans les sodas :left_right_arrow: Concentration of benzoic acid in soft drinks__
-
+<p align="center"># __Concentration de l'acide benzoïque dans les sodas__</p>
+<p align="center">:left_right_arrow:</p>
+<p align="center">__Concentration of benzoic acid in soft drinks__</p>
+<br>
+<br>
 ```
    USAGE                                                                                                                                                                                 
         ./109titration <file>                                                                                                                                                                 
