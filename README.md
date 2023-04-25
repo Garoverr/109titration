@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <h1 style="font-size: 2em; font-weight: bold;">Concentration de l'acide benzoïque dans les sodas</h1>
-  <span style="font-size: 2em; margin: 0 10px;">:left_right_arrow:</span>
+  <span style="font-size: 2em; margin: 0 10px; align-items: center;">:arrow_up_down:</span>
   <h1 style="font-size: 2em; font-weight: bold;">Concentration of benzoic acid in soft drinks</h1>
 </div>
 <br>
