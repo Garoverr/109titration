@@ -11,7 +11,8 @@ L'acide benzoïque est un conservateur alimentaire utilisé dans l'industrie sou
 <span style="float: left;">
   <img src="include/acidebenzoiquesolide.png" alt="cide benzoïque solide" width="400" height="300">
 </span>
-
+<br>
+<br>
 Pour déterminer la concentration de cet additif dans un soda, on peut réaliser une titration pH : une base forte (le titrant) est ajoutée progressivement à un échantillon de soda (l'analyte), et le pH est ensuite lu. La courbe générée est typique, et comporte une zone où le pH augmente brutalement : il s'agit du saut de pH.
 
 ![Schéma du saut de PH durant la titration](include/sautPH109.png)
@@ -53,10 +54,15 @@ Le code contient une gestion d'erreur personnalisée appelée InvalidFile et des
 
 Benzoic acid is a food preservative used in industry under the code E210. It's a white, silky solid. 
 
-![Diagram of a benzoic acid molecule](include/schemaE210.jpg)
-
-![Solid benzoic acid](include/acidebenzoiquesolide.png)
-
+h2>E210 : molecule && solid form</h2>
+<span style="float: left; margin-right: 10px;">
+  <img src="include/schemaE210.jpg" alt="Diagram of a benzoic acid molecule" width="400" height="300">
+</span>
+<span style="float: left;">
+  <img src="include/acidebenzoiquesolide.png" alt="Solid benzoic acid" width="400" height="300">
+</span>
+<br>
+<br>
 To determine the concentration of this additive in a soda, a pH titration can be performed: a strong base (the titrant) is added progressively to a soda sample (the analyte), and the pH is then read. The curve generated is typical, and includes an area where the pH rises sharply: this is the pH jump.
 
 ![Diagram typical curve: Brutal increase after titration](include/sautPH109.png)
