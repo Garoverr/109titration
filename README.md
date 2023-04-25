@@ -54,13 +54,13 @@ Nous devions coder la première approche. Le programme doit lire le volume de ti
 
 <figure>
   <img src="include/imagesortiprog109.png" alt="Sortie du programme">
-  <figcaption>Sortie du programme</figcaption>
+  <figcaption>:arrow_right_hook:Sortie du programme</figcaption>
 </figure>
 <br>
 <br>
 <figure>
   <img src="include/image2sortiprog.png" alt="Sortie du programme avec erreur">
-  <figcaption>Sortie du programme avec erreur</figcaption>
+  <figcaption>:arrow_right_hook:Sortie du programme avec erreur</figcaption>
 </figure>
 <br>
 <br>
@@ -114,13 +114,13 @@ We had to code the first approach. The program must read the volume of titrant (
 
 <figure>
   <img src="include/imagesortiprog109.png" alt="Program's output">
-  <figcaption>Program's output</figcaption>
+  <figcaption>:arrow_right_hook:Program's output</figcaption>
 </figure>
 <br>
 <br>
 <figure>
   <img src="include/image2sortiprog.png" alt="Program's output with error">
-  <figcaption>Program's output with error</figcaption>
+  <figcaption>:arrow_right_hook:Program's output with error</figcaption>
 </figure>
 <br>
 <br>
